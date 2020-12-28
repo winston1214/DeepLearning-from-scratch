@@ -1,4 +1,3 @@
-# DeepLearning-from-scratch
+## DeepLearning fomr scratch 1 (Description)
+- Chapter2 - Perceptron:  <a href='https://bigdata-analyst.tistory.com/243'>Blog version</a>, <a href='https://github.com/winston1214/DeepLearning-from-scratch/tree/master/Chapter2-Perceptron'>PDF version</a>
 
-# DeepLearning fomr scratch 1 (Blog version)
-- Chapter2 <a href='https://bigdata-analyst.tistory.com/243'>Perceptron</a>
