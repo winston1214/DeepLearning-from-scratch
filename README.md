@@ -3,4 +3,4 @@
 - Chpater3 - Neural Network :
 <a href='https://bigdata-analyst.tistory.com/255'>Blog version(1)</a>, <a href='https://bigdata-analyst.tistory.com/256'>Blog version(2)</a>,<a href='https://bigdata-analyst.tistory.com/257'>Blog version(3)</a>,<a href='https://github.com/winston1214/DeepLearning-from-scratch/blob/master/Chapter3-Neural_Network/Chpater3-Neural_Network(1).pdf'>PDF version(1)</a>,<a href='https://github.com/winston1214/DeepLearning-from-scratch/blob/master/Chapter3-Neural_Network/Chapter3-Neural_Network(2).pdf'>PDF version(2)</a>
 - Chapter4 - Neural Network Training : <a href='https://bigdata-analyst.tistory.com/260?category=908123'>Blog Version</a>, <a href='https://github.com/winston1214/DeepLearning-from-scratch/blob/master/Chapter4-Training_NN/Chapter4-Neural_Network_Training.pdf'>PDF Version</a>
-
+- Chapter5 - Backpropogation : <a href='https://bigdata-analyst.tistory.com/270'>Blog Version</a>, <a href='https://github.com/winston1214/DeepLearning-from-scratch/blob/master/Chapter5-Backward_propagation/Chapter5-Backward_propagation.pdf'>PDF version</a>
